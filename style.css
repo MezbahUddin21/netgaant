@@ -301,7 +301,7 @@ ul li{
     overflow: hidden;
     margin-top: -10px;
     border-radius: 10px;
-    background: url(/img/about.jpg);
+    background: url(./img/about.jpg);
     background-position-x: center;
     background-size: cover;
     background-repeat: no-repeat;
